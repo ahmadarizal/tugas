@@ -1,0 +1,23 @@
+.header {
+  width: 700px;
+  margin: 0% auto;
+  border: 1px solid;
+}
+h3 {
+  text-align: center;
+}
+.kirim {
+  font-size: 15px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+p {
+  margin-left: 20px;
+}
+input {
+  margin-left: 20px;
+}
+label {
+  margin-left: 20px;
+}
